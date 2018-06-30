@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.ejb.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.jms.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/ezmorph-1.0.6.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.servlet.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.resource.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/commons-lang-2.5.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.annotation.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.persistence.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.servlet.jsp.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.transaction.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/commons-collections-3.2.1.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/mysql-connector-java-5.1.44-bin.jar" />
+  </library>
+  <library name="json-lib-0.9" />
+  <library name="lib">
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.ejb.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.jms.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/ezmorph-1.0.6.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.servlet.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.resource.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/commons-lang-2.5.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.annotation.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.persistence.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.servlet.jsp.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.transaction.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/commons-collections-3.2.1.jar" />
+    <archive path="D:/easyshop/web/WEB-INF/lib/mysql-connector-java-5.1.44-bin.jar" />
+  </library>
+</eclipse-userlibraries>
+
